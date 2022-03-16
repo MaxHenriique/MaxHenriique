@@ -17,7 +17,6 @@
 </div>
   
   ##
-  
  <!--icones de suas Redes Sociais + Link-->
 <div> 
   <a href="https://www.instagram.com/max._.henrique" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
