@@ -1,4 +1,10 @@
 ### Olá sou Max Henrique👋
+
+- 🎓 Estudando para Desenvolvedor Java Júnior no Instituto PROA
+- 📖 Estudo atualmente: HTML - CSS - JAVASCRIPT - BOOTSTRAP
+- 📫 Contate-me em: contato.maxhenrique@gmail.com
+- 😄 Pronomes: ele/él/he
+
 <br>
 <div align="center">
   <a href="https://github.com/MaxHenriique">
