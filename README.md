@@ -2,7 +2,6 @@
 
 - 🎓 Estudando para Desenvolvedor Java Júnior no Instituto PROA
 - 📖 Estudo atualmente: HTML - CSS - JAVASCRIPT - BOOTSTRAP
-- 📫 Contate-me em: contato.maxhenrique@gmail.com
 - 😄 Pronomes: ele/él/he
 
 <br>
