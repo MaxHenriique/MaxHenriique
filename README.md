@@ -19,7 +19,7 @@
   <img alt="Max tem conhecimento em - Html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="Max tem conhecimento em - CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Max tem conhecimento em - JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" url="https://www.linkedin.com/in/max-henrique-fontes/"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" href="https://www.linkedin.com/in/max-henrique-fontes/"/>
 </div>
   
   ##
