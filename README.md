@@ -24,7 +24,12 @@
   ##
  <!--icones de suas Redes Sociais + Link-->
 <div> 
-  <a href="https://www.instagram.com/max._.henrique" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162623959-1ff00b22-c031-4712-ab7f-6d3cd5f6b498.png"/>
-  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162623961-219abd50-724b-459e-97cf-643d72f02ffb.png"/>
-  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162623966-d2f96224-3af3-4ad5-a6c6-cf9b4ab182c1.png"/>
+  <a href="https://www.instagram.com/max._.henrique" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162638503-07d47d20-c59d-4b29-b30d-371f109f5368.png"/>
+  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162638502-04898414-1758-4609-9b87-462f31d30037.png"/>
+  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/101279529/162638501-443560fc-4145-481e-b2dd-12089346129b.png"/>
 </div>
+
+    
+    ![gma](https://user-images.githubusercontent.com/101279529/162638501-443560fc-4145-481e-b2dd-12089346129b.png)
+![linke](https://user-images.githubusercontent.com/101279529/162638502-04898414-1758-4609-9b87-462f31d30037.png)
+![insta](https://user-images.githubusercontent.com/101279529/162638503-07d47d20-c59d-4b29-b30d-371f109f5368.png)
