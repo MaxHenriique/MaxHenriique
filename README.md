@@ -25,6 +25,6 @@
  <!--icones de suas Redes Sociais + Link-->
 <div> 
   <a href="https://www.instagram.com/max._.henrique" target="_blank"><img height="50px" src="https://user-images.githubusercontent.com/101279529/162638503-07d47d20-c59d-4b29-b30d-371f109f5368.png"/>
-  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="110px" src="https://user-images.githubusercontent.com/101279529/162638502-04898414-1758-4609-9b87-462f31d30037.png"/>
-  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="110px" src="https://user-images.githubusercontent.com/101279529/162638501-443560fc-4145-481e-b2dd-12089346129b.png"/>
+  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="50px" src="https://user-images.githubusercontent.com/101279529/162638502-04898414-1758-4609-9b87-462f31d30037.png"/>
+  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="50px" src="https://user-images.githubusercontent.com/101279529/162638501-443560fc-4145-481e-b2dd-12089346129b.png"/>
 </div>
