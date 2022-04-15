@@ -13,14 +13,13 @@
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhenriique&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <br>
-  <br>
  <!--icones de suas Redes Sociais + Link-->
 <div align="center"> 
   <a href="https://www.instagram.com/max._.henrique" target="_blank"><img height="35px" src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&labelColor=8449BF&logo=instagram&logoColor=white"/>
   <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="35px" src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white"/>
   <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="35px" src="https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=FF0000&logoColor=white"/>
 </div>
-<br>
+<div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="logo"></div> 
   <!--icones com suas habilidades + Link-->
 <div align="center" >
        <!--<h3> Hard Skill </h3>-->
@@ -30,6 +29,8 @@
       <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
       <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.gif"/>
 </div>
+   
+   
   
 
 
@@ -42,5 +43,6 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+   
   
    
