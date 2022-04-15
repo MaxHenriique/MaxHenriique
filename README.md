@@ -27,12 +27,14 @@
       <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
       <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.gif"/>
 </div>
-<div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"</div> 
-<div align="center">
+   <div align="center">
  
   <!--[Snake animation]--><div align="center"><img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg"/>
  
 </div>
+    
+<div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"</div> 
+
    
 <!--[Dino]<div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"></div>-->
     
