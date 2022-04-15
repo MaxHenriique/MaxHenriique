@@ -1,30 +1,46 @@
-### Olá sou Max Henrique👋
-
-- 🎓 Estudando para Desenvolvedor Java Júnior no Instituto PROA
-- 📖 Estudo atualmente: HTML - CSS - JAVASCRIPT - BOOTSTRAP
-- 😄 Pronomes: ele/él/he
+<!--Titulo do perfil-->
+<h1 align="center"><img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif" width="30px"> Olá Mundo! <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Earth.gif" width="25px"></h1>
+<!--Subtitulo do perfil-->
+<div align="center">Meu nome é <a href="https://www.linkedin.com/in/max-henrique-fontes/"><b>Max Henrique</b></a> e estou estudando para <b>Desenvolvedor Java Júnior</b> no <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></a> <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Developer.gif" width="30px"></div>
 
 <br>
+
+<!--Informações do perfil-->
 <div align="center">
+ <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->  
   <a href="https://github.com/MaxHenriique">
-    <!--informações do perfil-->
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <!--Linguagem de programação que utiliza-->
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhenriique&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
-  <!--icones com suas habilidades + Link-->
-<div align="center">
+<br>
   <br>
-  <img alt="Html5" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <!--icones de suas Redes Sociais + Link-->
+<div align="center"> 
+  <a href="https://www.instagram.com/max._.henrique" target="_blank"><img height="35px" src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&labelColor=8449BF&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="35px" src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white"/>
+  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="35px" src="https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=FF0000&logoColor=white"/>
+</div>
+<br>
+  <!--icones com suas habilidades + Link-->
+<div align="center" >
+       <!--<h3> Hard Skill </h3>-->
+      <img alt="Html5" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
+      <img alt="CSS3" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
+      <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.gif"/>
+      <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
+      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.gif"/>
 </div>
   
-  ##
- <!--icones de suas Redes Sociais + Link-->
-<div> 
-  <a href="https://www.instagram.com/max._.henrique" target="_blank"><img height="43px" src="https://user-images.githubusercontent.com/101279529/162638503-07d47d20-c59d-4b29-b30d-371f109f5368.png"/>
-  <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="43px" src="https://user-images.githubusercontent.com/101279529/162638502-04898414-1758-4609-9b87-462f31d30037.png"/>
-  <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="43px" src="https://user-images.githubusercontent.com/101279529/162638501-443560fc-4145-481e-b2dd-12089346129b.png"/>
+
+
+
+  
+<!--[Dino]--><div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"></div>
+    
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+  
+   
