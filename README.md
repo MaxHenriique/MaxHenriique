@@ -33,7 +33,7 @@
  
 </div>
     
-<div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"</div> 
+<!-- <div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"</div>  -->
 
    
 <!--[Dino]<div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"></div>-->
