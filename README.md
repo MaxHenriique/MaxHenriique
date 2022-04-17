@@ -7,8 +7,8 @@
 <div align="center">
  <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->  
   <a href="https://github.com/MaxHenriique">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=maxhenriique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhenriique&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="" src="https://github-readme-stats.vercel.app/api?username=maxhenriique&custom_title=Max%20Henrique%20Fontes%20Sinche&text_color=C9D1D9&title_color=2085FF&show_icons=true&icon_color=495059&bg_color=0D1117&include_all_commits=true&count_private=true&locale=pt-br&border_color=242424&line_height=27"/>
+  <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhenriique&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=2085FF&bg_color=0D1117&langs_count=7&border_color=242424&card_width=480"/>
 </div>
 <br>
  <!--icones de suas Redes Sociais + Link-->
@@ -23,9 +23,9 @@
        <!--<h3> Hard Skill </h3>-->
       <img alt="Html5" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
       <img alt="CSS3" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
-      <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.gif"/>
+      <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.png"/>
       <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
-      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.gif"/>
+      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.png"/>
 </div>
    <div align="center">
  
