@@ -1,15 +1,19 @@
 <!--Titulo do perfil-->
-<h1 align="center"><img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif" width="30px"> Olá Mundo! <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Earth.gif" width="25px"></h1>
+<h1 align="center"><img height="30px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif"> Olá Mundo! <img height="25px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Earth.gif"></h1>
 <!--Subtitulo do perfil-->
-<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/max-henrique-fontes/"><b>Max Henrique</b></a> estou estudando para <b>Desenvolvedor Java Júnior</b> no <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></a> <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Developer.gif" width="30px"></h3>
+<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/max-henrique-fontes/"><b>Max Henrique</b></a> estou estudando para <b>Desenvolvedor Java Júnior</b> no <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></a> 
+<!-- <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Developer.gif" width="30px"></h3> -->
 <br>
+ 
 <!--Informações do perfil-->
 <div align="center">
- <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->  
+ <br>
+ <!--Informações do perfil--> <!--Linguagem de programação que utiliza-->
   <a href="https://github.com/MaxHenriique">
   <img height="" src="https://github-readme-stats.vercel.app/api?username=MaxHenriique&custom_title=Max%20Henrique%20Fontes%20Sinche&text_color=C9D1D9&title_color=2085FF&show_icons=true&icon_color=495059&bg_color=0D1117&include_all_commits=true&count_private=true&locale=pt-br&border_color=242424&line_height=27"/>
   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxHenriique&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=2085FF&bg_color=0D1117&langs_count=7&border_color=242424&card_width=300"/>
 </div>
+ 
 <br>
  <!--icones de suas Redes Sociais + Link-->
 <div align="center">
