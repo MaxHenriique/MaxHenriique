@@ -25,11 +25,12 @@
     <!--icones com suas habilidades + Link-->
 <div align="center" >
        <!--<h3> Hard Skill </h3>-->
+      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.png"/>
       <img alt="Html5" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
       <img alt="CSS3" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
       <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.png"/>
       <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
-      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.png"/>
+      
 </div>
    <div align="center">
  
