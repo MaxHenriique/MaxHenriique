@@ -40,7 +40,7 @@
 <br>
 
 <!-- Spotify -->    
-[![](https://spotify-github-profile.vercel.app/api/view.svg?uid=278x5o2wpy6keezqolr2bdrn6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![](https://spotify-github-profile.vercel.app/api/view.svg?uid=278x5o2wpy6keezqolr2bdrn6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
     
 <!-- <div align="center" ><img width="450"src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"</div>  -->
     
