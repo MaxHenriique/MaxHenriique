@@ -13,7 +13,7 @@
   <img height="" src="https://github-readme-stats.vercel.app/api?username=MaxHenriique&custom_title=Max%20Henrique%20Fontes%20Sinche&text_color=C9D1D9&title_color=ABF54E&show_icons=true&icon_color=495059&bg_color=121221&include_all_commits=true&count_private=true&locale=pt-br&border_color=242424&line_height=27"/>
   </a>
   <a href="https://github.com/MaxHenriique">
-   <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxHenriique&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=ABF54E&bg_color=121221&langs_count=6&border_color=242424&card_width=300&theme=codeSTACKr"/>
+   <img height="207" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxHenriique&custom_title=Linguagens%20mais%20utilizadas&text_color=C9D1D9&title_color=ABF54E&bg_color=121221&langs_count=6&border_color=242424&card_width=350"/>
   </a>  
  </div>
  
