@@ -29,7 +29,7 @@
       <img alt="Html5" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
       <img alt="CSS3" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
       <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.png"/>
-      <img alt="Bootstrap" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-bootstrap.svg"/>
+      <img alt="Bootstrap" align="center" height="38" width="48" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Bootstrap_logo.svg.png"/>
       
 </div>
    <div align="center">
