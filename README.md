@@ -14,9 +14,6 @@
 </ul>
 </div>
 
-<h3 align="center">Meu nome é <a href="https://www.linkedin.com/in/max-henrique-fontes/"><b>Max Henrique</b></a> estou estudando para <b>Desenvolvedor Java Júnior</b> no <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></a> 
-<!-- <img src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Developer.gif" width="30px"></h3> -->
-<br>
  
 <!--Informações do perfil-->
 <div align="center">
