@@ -30,7 +30,7 @@
 <br>
  <!--icones de suas Redes Sociais + Link-->
 <div align="center">
-  <a href="https://www.instagram.com/max._.henrique" target="_blank"><img height="30px" src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></a>
+  <a href="https://maxhenrique.netlify.app/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="30px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
