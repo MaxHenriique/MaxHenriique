@@ -1,5 +1,5 @@
 <!--Titulo do perfil-->
-<h1 align="center"><img height="30px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif"> Olá, sou Max!</h1> 
+<h1 align="left"><img height="30px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Hi.gif"> Olá, sou o Max!</h1> 
 <!--<img height="25px" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Earth.gif"></h1>-->
 <!--Subtitulo do perfil-->
 
@@ -16,20 +16,20 @@
  
 <br>
  <!--icones de suas Redes Sociais + Link-->
-<div align="center">
+<div align="left">
   <a href="https://maxhenrique.com" target="_blank"><img height="30px" src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/max-henrique-fontes-286b731b6/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:contato.maxhenrique@gmail.com" target="_blank"><img height="30px" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
    <br>
     <!--icones com suas habilidades + Link-->
-<div align="center" >
+<div align="left" >
        <!--<h3> Hard Skill </h3>-->
-      <img alt="Figma" align="center" height="45" width="45" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.png"/>
-      <img alt="Html5" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
-      <img alt="CSS3" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
-      <img alt="JavaScript" align="center" height="50" width="50" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.png"/>
-      <img alt="Bootstrap" align="center" height="38" width="48" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Bootstrap_logo.png"/>
+      <img alt="Figma" align="center" height="24" width="24" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-figma.png"/>
+      <img alt="Html5" align="center" height="24" width="24" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-html-5.svg"/>
+      <img alt="CSS3" align="center" height="24" width="24" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-css3.svg"/>
+      <img alt="JavaScript" align="center" height="24" width="24" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/icons8-javascript.png"/>
+      <img alt="Bootstrap" align="center" height="20" src="https://github.com/MaxHenriique/MaxHenriique/blob/main/Assets/Bootstrap_logo.png"/>
       
 </div>
 
