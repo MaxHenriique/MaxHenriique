@@ -6,12 +6,16 @@
 <!--sobre mim -->
 <div>
 <ul>
-    <li>📘 Ex-aluno do <a href="https://www.proa.org.br/" target="_blank"><b>Instituto PROA</b></a></li>
     <li>🎓 Ensino superior em Design Gráfico</li>
     <li>🌱 Estou atualmente estudando React e JavaScript.</li>
-    <li>📫 Contate-me: <a href="mailto:contato.maxhenrique@gmail.com" target="_blank">contato.maxhenrique@gmail.com </a></li>
-    <li>😄 Pronomes: ele/él/he </li>
+    <li>📫 Contate-me</li>
+    
+     contato.maxhenrique@gmail.com
+     
 </ul>
+    
+   
+    
 </div>
  
 <br>
