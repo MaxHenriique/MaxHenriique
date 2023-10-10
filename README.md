@@ -7,7 +7,7 @@
 <div>
 <ul>
     <li>🎓 Ensino superior em Design Gráfico</li>
-    <li>🌱 Estou atualmente estudando React e JavaScript.</li>
+    <li>🌱 Estou atualmente estudando JavaScript e React.</li>
     <li>📫 Contate-me</li>
     
      contato.maxhenrique@gmail.com
